@@ -24,5 +24,10 @@ namespace TD8_Projet_GitHub
         {
             InitializeComponent();
         }
+
+        private void Button_Valider_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Clic sur le bouton Valider");
+        }
     }
 }

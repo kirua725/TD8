@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Button_Annuler" Content="Annuler" HorizontalAlignment="Left" Height="103" Margin="409,316,0,0" VerticalAlignment="Top" Width="383" FontSize="36"/>
-        <Button x:Name="Button_Valider" Content="Valider" HorizontalAlignment="Left" Height="103" Margin="0,316,0,0" VerticalAlignment="Top" Width="409" FontSize="36"/>
+        <Button x:Name="Button_Valider" Content="Valider" HorizontalAlignment="Left" Height="103" Margin="0,316,0,0" VerticalAlignment="Top" Width="409" FontSize="36" Click="Button_Valider_Click"/>
         <TextBlock x:Name="TextBlock_OAE" HorizontalAlignment="Left" Height="45" Margin="10,21,0,0" TextWrapping="Wrap" Text="Opération à effectuer" VerticalAlignment="Top" Width="364" FontSize="24"/>
         <TextBlock x:Name="TextBlock_Compte" HorizontalAlignment="Left" Height="45" Margin="10,133,0,0" TextWrapping="Wrap" Text="Compte" VerticalAlignment="Top" Width="364" FontSize="24"/>
         <TextBlock x:Name="TextBlock_Montant" HorizontalAlignment="Left" Height="45" Margin="10,245,0,0" TextWrapping="Wrap" Text="Montant" VerticalAlignment="Top" Width="364" FontSize="24"/>
