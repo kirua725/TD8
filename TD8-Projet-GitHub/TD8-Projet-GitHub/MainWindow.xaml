@@ -14,7 +14,7 @@
         <TextBlock x:Name="TextBlock_Montant" HorizontalAlignment="Left" Height="45" Margin="10,245,0,0" TextWrapping="Wrap" Text="Montant" VerticalAlignment="Top" Width="364" FontSize="24"/>
         <ComboBox x:Name="ComboBox_OAE" HorizontalAlignment="Left" Height="45" Margin="409,21,0,0" VerticalAlignment="Top" Width="359"/>
         <ComboBox x:Name="ComboBox_Compte" HorizontalAlignment="Left" Height="45" Margin="409,133,0,0" VerticalAlignment="Top" Width="359"/>
-        <TextBox x:Name="TextBox_Montant" HorizontalAlignment="Left" Height="45" Margin="409,245,0,0" TextWrapping="Wrap" Text="Github updated" VerticalAlignment="Top" Width="359" FontSize="24"/>
+        <TextBox x:Name="TextBox_Montant" HorizontalAlignment="Left" Height="45" Margin="409,245,0,0" TextWrapping="Wrap" Text="Bite" VerticalAlignment="Top" Width="359" FontSize="24"/>
 
     </Grid>
 </Window>
